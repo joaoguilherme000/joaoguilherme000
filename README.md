@@ -1,7 +1,3 @@
-## ENTAO ESSA E A REALIDADE, [ ENCONTRE-O](https://www.youtube.com/watch?v=Wjavakm7gMQ&ab_channel=ArcadeAssassin)
-
-
-
 <div style="display: block"><br>
   <h2>As coisas que eu """""""""""""sei"""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,3 +28,5 @@
         <h2>COM A TELA INVERTIDA ICONE NO MAXIMO MODO NOTURNO EM 200% TECLADO QUEBRADO MEXENDO O MOUSE COM A MENTE </h2>
         <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
     </header>
+
+## ENTAO ESSA É A REALIDADE, [ ENCONTRE-O](https://www.youtube.com/watch?v=Wjavakm7gMQ&ab_channel=ArcadeAssassin)
