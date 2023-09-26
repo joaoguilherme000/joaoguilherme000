@@ -1,5 +1,5 @@
 <div style="display: block"><br>
-  <h2>As coisas que eu """""""""""""sei"""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h2>As coisas que eu """"""""""sei""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Joao-react" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Joao-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
