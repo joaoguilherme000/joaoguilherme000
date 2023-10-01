@@ -1,5 +1,5 @@
 <div style="display: block"><br>
-  <h2>As coisas que eu """"""""""sei""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h1>As coisas que eu """"""""""sei""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Joao-react" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Joao-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,9 +9,9 @@
     <img align="center" alt="Joao-VISUAL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img align="center" alt="Joao-PHOTOSHOP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img align="center" alt="Joao-TRELLO" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  </h2>
+  </h1>
   
-  <h1 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture> TEM COMMIT TODO DIA </h1>
+  <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture> TEM COMMIT TODO DIA </h2>
 </div>
 
 <h3>Eu quando o codigo funciona</h3><picture>
