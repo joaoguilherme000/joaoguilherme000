@@ -26,7 +26,7 @@
 <h3>Com a tela invertida ícone no máximo modo noturno em 100% teclado quebrado mexendo o mouse com a mente</h3>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
 
-<h3>perdi meu streak de commits infelizmente</h3>
+<h3>perdi meu streak de commits infelizmente teste</h3>
 
 
 ## ENTAO ESSA É A REALIDADE, [ ENCONTRE-O](https://www.youtube.com/watch?v=Wjavakm7gMQ&ab_channel=ArcadeAssassin)
