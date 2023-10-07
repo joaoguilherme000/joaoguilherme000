@@ -26,6 +26,7 @@
 <h3>COM A TELA INVERTIDA ICONE NO MAXIMO MODO NOTURNO EM 200% TECLADO QUEBRADO MEXENDO O MOUSE COM A MENTE </h3>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
 
+<h3>perdi meu streak de commits infelizmente</h3>
 
 
 ## ENTAO ESSA É A REALIDADE, [ ENCONTRE-O](https://www.youtube.com/watch?v=Wjavakm7gMQ&ab_channel=ArcadeAssassin)
