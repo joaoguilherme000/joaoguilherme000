@@ -21,9 +21,9 @@
 <h3>Faltava um ponto e virgula</h3><picture>
   <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/no-bruh.gif" />
 </picture>
-<h3>EU TODO DIA COM A TELA NORMAL</h2>
+<h3>Eu todo dia com a tela normal</h3>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/malding.gif"></picture>
-<h3>COM A tela invertida ícone no máximo modo noturno em 100% teclado quebrado mexendo o mouse com a mente</h3>
+<h3>Com a tela invertida ícone no máximo modo noturno em 100% teclado quebrado mexendo o mouse com a mente</h3>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
 
 <h3>perdi meu streak de commits infelizmente</h3>
