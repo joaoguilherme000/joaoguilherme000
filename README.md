@@ -23,7 +23,7 @@
 </picture>
 <h3>EU TODO DIA COM A TELA NORMAL</h2>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/malding.gif"></picture>
-<h3>COM A TELA INVERTIDA ICONE NO MAXIMO MODO NOTURNO EM 200% TECLADO QUEBRADO MEXENDO O MOUSE COM A MENTE </h3>
+<h3>COM A tela invertida ícone no máximo modo noturno em 100% teclado quebrado mexendo o mouse com a mente</h3>
 <picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
 
 <h3>perdi meu streak de commits infelizmente</h3>
