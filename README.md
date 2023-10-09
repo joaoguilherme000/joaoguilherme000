@@ -1,5 +1,6 @@
 <div style="display: block"><br>
-  <h1>As coisas que eu """"""""""sei""""""""""  <br>  <br>                                                                                                                                   <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h1>As coisas que eu """"""""""sei""""""""""  <br>  <br>
+    <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Joao-react" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Joao-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,14 +15,12 @@
   <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture> TEM COMMIT TODO DIA </h2>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=joaoguilherme000&icon=5&color=0)](https://visitcount.itsvg.in)
+<h3>Meus bagui:</h3>
 
-# Meus bagui:
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=joaoguilherme000&theme=radical&no-frame=false&no-bg=false&margin-w=999)
-
+![](https://github-profile-trophy.vercel.app/?username=joaoguilherme000&theme=radical&no-frame=false&no-bg=false&margin-w=9&rank=AA,A)
 
 <h3>Eu quando o codigo funciona</h3><picture>
   <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/tv.gif" />
