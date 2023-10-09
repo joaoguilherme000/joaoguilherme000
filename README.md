@@ -14,6 +14,15 @@
   <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture> TEM COMMIT TODO DIA </h2>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=joaoguilherme000&icon=5&color=0)](https://visitcount.itsvg.in)
+
+# Meus bagui:
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=joaoguilherme000&theme=radical&no-frame=false&no-bg=false&margin-w=999)
+
+
 <h3>Eu quando o codigo funciona</h3><picture>
   <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/tv.gif" />
 </picture>
