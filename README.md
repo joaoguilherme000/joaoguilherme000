@@ -20,7 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=joaoguilherme000)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=joaoguilherme000)
 
 <h3>Eu quando o codigo funciona</h3><picture>
   <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/tv.gif" />
