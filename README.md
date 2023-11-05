@@ -22,19 +22,12 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joaoguilherme000)
 
-<h3>Eu quando o codigo funciona</h3><picture>
-  <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/tv.gif" />
-</picture>
+<div align="center">
+Talvez nem tudo que você sabe te pertence <br>
+Talvez o melhor caminho seja não andar<br>
+Talvez ganhar não seja tão legal assim<br>
+Já se olhou no espelho hoje <br>
+Você consegue?<br>
+Se não por que tenta? <br>
+</div>
 
-<h3>Faltava um ponto e virgula</h3><picture>
-  <img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/no-bruh.gif" />
-</picture>
-<h3>Eu todo dia com a tela normal</h3>
-<picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/malding.gif"></picture>
-<h3>Com a tela invertida ícone no máximo modo noturno em 100% teclado quebrado mexendo o mouse com a mente</h3>
-<picture><img src="https://github.com/joaoguilherme000/joaoguilherme000/blob/main/nada/chatting-pepechat.gif"></picture><p>da pra usar</p>
-
-<h3>perdi meu streak de commits infelizmente</h3>
-
-
-## ENTAO ESSA É A REALIDADE, [ ENCONTRE-O](https://www.youtube.com/watch?v=Wjavakm7gMQ&ab_channel=ArcadeAssassin)
