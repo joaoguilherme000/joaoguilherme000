@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h3>
 Talvez o melhor caminho seja não andar<br>
 Talvez nem tudo que você sabe te pertence <br>
