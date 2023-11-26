@@ -13,7 +13,7 @@
    <img align="center" alt="Joao-SASS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </h1>
   
-  <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture> TEM COMMIT TODO DIA </h2>
+  <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture></h2>
 </div>
 
 <h3>Meus bagui:</h3>
