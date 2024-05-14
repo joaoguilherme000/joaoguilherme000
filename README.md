@@ -12,6 +12,8 @@
     <img align="center" alt="Joao-TRELLO" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
    <img align="center" alt="Joao-SASS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="Joao-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="Joao-bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="Joao-c++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </h1>
   
   <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture>Não tem commit todo dia</h2>
