@@ -28,8 +28,6 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<h4>Meus bagui:</h4>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
