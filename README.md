@@ -23,6 +23,27 @@
   <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture></h2>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+ </br>
+
+
+  
+### Profile Views
+
+![](https://count.getloli.com/get/@joaoguilherme000.github.readme)
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
+
+## **Tech Toolbox & Interests 🧰**<br>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <h3>Meus bagui:</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)
