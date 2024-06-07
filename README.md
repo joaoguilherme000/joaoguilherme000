@@ -1,4 +1,4 @@
-<div style="display: block"><br>
+<div style="display: block" align="center"><br>
   <h1>As coisas que eu """"""""""sei""""""""""  <br>  <br>
     <img align="center" alt="Joao-js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,30 +17,18 @@
     <img align="center" alt="Joao-firebase" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
     <img align="center" alt="Joao-figma" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img align="center" alt="Joao-gulp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+    <img align="center" alt="Joao-kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" />
     <img align="center" alt="Joao-jetpackcompose" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
   </h1>
-  
-  <h2 align="start"> VE AI PO <picture><img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" /></picture></h2>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
- </br>
-  
-### Profile Views
-
-![](https://count.getloli.com/get/@joaoguilherme000.github.readme)
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<h3>Meus bagui:</h3>
+<h4>Meus bagui:</h4>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaoguilherme000&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joaoguilherme000)
+</div>
